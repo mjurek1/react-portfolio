@@ -1,4 +1,4 @@
-export default function AboutMePage() {
+export default function ResumePage() {
     return (
         <div className="container pt-4">
             <p>
