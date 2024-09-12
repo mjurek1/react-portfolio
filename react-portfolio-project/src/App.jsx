@@ -3,10 +3,11 @@ import Nav from './components/Nav';
 
 function App() {
   return (
-    <>
+    <div className='bodywrapper'>
     <Nav />
     <Outlet />
-    </>
+    {/* <Footer /> */}
+    </div>
   );
 }
 
